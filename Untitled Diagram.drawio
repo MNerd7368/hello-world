@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-06T19:17:57.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="xH3zDvlwBOA3CXb8fC2m" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-06T19:21:54.601Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="_XE3XDGOLx5X-ceEqZfb" version="14.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1186" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
           <mxGeometry x="160" y="1360" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Os3kQ1dHO9RdM6p-BYmI-28" value="Store the numerical value after calculation in gained_total = amount_received_after_selling_stock - total_service_charges_fee&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="1470" width="340" height="60" as="geometry" />
+          <mxGeometry x="125" y="1470" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Os3kQ1dHO9RdM6p-BYmI-29" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -131,7 +131,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Os3kQ1dHO9RdM6p-BYmI-32" value="Store the numerical value after calculation in &amp;nbsp;amount_gained_or_lost =&lt;br&gt;&amp;nbsp;amount_invested * brokerage _firm_service_charge_fee" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165" y="1580" width="365" height="60" as="geometry" />
+          <mxGeometry x="150" y="1580" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Os3kQ1dHO9RdM6p-BYmI-33" value="Output &quot;Total Amount Invested: $&quot;, amount_invested&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="205" y="1800" width="250" height="60" as="geometry" />
@@ -225,10 +225,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Os3kQ1dHO9RdM6p-BYmI-55" value="Output &quot;Gained Total: $&quot;, gained_total" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="2690" width="220" height="60" as="geometry" />
+          <mxGeometry x="210" y="2690" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Os3kQ1dHO9RdM6p-BYmI-56" value="Store the variable &amp;nbsp;brokerage_firm_service_charge_fee = 0.015 as a double&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="-960" width="240" height="70" as="geometry" />
+          <mxGeometry x="90" y="-960" width="480" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Os3kQ1dHO9RdM6p-BYmI-57" value="Store the variable number_of_shares_sold" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="-840" width="280" height="60" as="geometry" />
